@@ -1,0 +1,10 @@
+.dropdown {
+    text-decoration: none;
+    color: #0e5a59;
+    font-size: 20px;
+    width: 200px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 20 80px;
+  }
